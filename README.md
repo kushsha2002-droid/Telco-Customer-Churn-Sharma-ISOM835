@@ -24,9 +24,18 @@ https://colab.research.google.com/drive/1on2i3PINA6Ml6PEGLvaZ-jH1lMFV68Kc#scroll
 
 ## Files in this Repository
 - `Sharma_Kushal_ISOM835_Project.pdf` – Final written report
-- `visualizations/` – Charts and figures (optional)
 
-## Key Results (Summary)
-- Models compared: Logistic Regression vs Random Forest
-- Best model selected: Logistic Regression
-- ROC-AUC ≈ 0.84 (Logistic Regression), ROC-AUC ≈ 0.82 (Random Forest)
+## Visualizations
+
+Key exploratory and evaluation plots generated during the analysis:
+
+- Distribution of Customer Churn 
+- Relationship Between Customer Tenure and Churn
+- Monthly Charges and Churn  
+- Impact of Contract Type on Churn
+- Internet Service Type and Churn
+- Correlation Analysis of Numeric Features
+- Confusion Matrices (Logistic Regression & Random Forest)  
+- ROC Curve Comparison  
+
+All plots are available in the `/visualizations` folder.
