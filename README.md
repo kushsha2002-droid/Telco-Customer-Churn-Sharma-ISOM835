@@ -30,8 +30,3 @@ https://colab.research.google.com/drive/1on2i3PINA6Ml6PEGLvaZ-jH1lMFV68Kc#scroll
 - Models compared: Logistic Regression vs Random Forest
 - Best model selected: Logistic Regression
 - ROC-AUC ≈ 0.84 (Logistic Regression), ROC-AUC ≈ 0.82 (Random Forest)
-
-## How to Run
-1. Open the Colab notebook link
-2. Run cells top to bottom to reproduce results
-3. Review outputs, plots, and model evaluation
