@@ -42,5 +42,6 @@ All plots are available in the `/visualizations` folder.
 
 ### Dataset
 The dataset used in this project is publicly available on Kaggle:
+
 https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
