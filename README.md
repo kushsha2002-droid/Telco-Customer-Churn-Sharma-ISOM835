@@ -20,7 +20,7 @@ Python 3, Google Colab, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, GitHub
 
 ## Google Colab Notebook
 🔗 **Notebook Link:**  
-https://colab.research.google.com/drive/1on2i3PINA6Ml6PEGLvaZ-jH1lMFV68Kc#scrollTo=_ZjfAmtzd9Dv
+https://colab.research.google.com/drive/1on2i3PINA6Ml6PEGLvaZ-jH1lMFV68Kc#scrollTo=_1Tszx8idYz5
 
 ## Files in this Repository
 - Sharma_Kushal_ISOM835_Customer_Churn_Project.pdf – Final written report
